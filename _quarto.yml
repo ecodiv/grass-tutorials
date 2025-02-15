@@ -10,7 +10,7 @@ website:
     logo: "images/logos/grass-favicon-white-32x32.png"
     tools:
       - icon: github
-        menu: 
+        menu:
           - text: "Source Code"
             href: "https://github.com/OSGeo/grass-tutorials"
           - text: "Report an Issue"
@@ -34,3 +34,6 @@ format:
     theme: [pandoc, theme.scss]
     toc: true
     toc-title: Table of Contents
+    link-external-newwindow: true
+
+
