@@ -2,7 +2,14 @@
 title: "Learn GRASS GIS"
 listing:
     contents: 
-        - content/tutorials
+        - content/tutorials    
+        - path: https://ecodiv.earth/TutorialsNotes/sdmingrassgis/
+          title: Species distribution modeling using Maxent in GRASS GIS
+          author: Paulo van Breugel
+          image: content/tutorials/external/images/sdm_in_grass_tutorialbanner.png
+          date: "2025-02-12"
+          description: Creating species distribution models to predicting the current and future distribution of the Almond-eyed Ringlet.
+          categories: ['biogeography', 'ecology', 'intermediate', 'advanced']
         - path: https://ecodiv.earth/TutorialsNotes/deerdensities/index.html
           title: Density distribution map of white-tailed deer
           author: Paulo van Breugel
