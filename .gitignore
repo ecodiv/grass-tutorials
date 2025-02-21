@@ -126,5 +126,5 @@ docs
 *.Rproj
 *.Rhistory
 .Rproj.user
-_freeze
+
 

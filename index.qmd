@@ -3,34 +3,7 @@ title: "Learn GRASS GIS"
 listing:
     contents: 
         - content/tutorials    
-        - path: https://ecodiv.earth/TutorialsNotes/sdmingrassgis/
-          title: Species distribution modeling using Maxent in GRASS GIS
-          author: Paulo van Breugel
-          image: content/tutorials/external/images/sdm_in_grass_tutorialbanner.png
-          date: "2025-02-12"
-          description: Creating species distribution models to predicting the current and future distribution of the Almond-eyed Ringlet.
-          categories: ['biogeography', 'ecology', 'intermediate', 'advanced']
-        - path: https://ecodiv.earth/TutorialsNotes/deerdensities/index.html
-          title: Density distribution map of white-tailed deer
-          author: Paulo van Breugel
-          image: content/tutorials/external/images/deer-density-tile.png
-          date: "2024-06-16"
-          description: Creating a habitat suitability map for the white-tailed deer using spatial multicriteria analysis and spatial disaggregation in GRASS GIS. 
-          categories: ['biogeography', 'MCDA', 'ecology', 'intermediate']
-        - path: https://ecodiv.earth/TutorialsNotes/SuitabilityRegions/index.html
-          title: From suitability to suitable regions
-          author: Paulo van Breugel
-          image: content/tutorials/external/images/suitability-regions-tile.png
-          date: "2024-05-25"
-          description: In this tutorial you learn how you can identify and map regions with user defined minimum suitability scores and area size, using as input a suitability map. 
-          categories: ['biogeography', 'MCDA', 'ecology', 'beginner']
-        - path: https://ecodiv.earth/post/tree-species-diversity-distribution/
-          title: Tree species diversity distribution
-          author: Paulo van Breugel
-          image: content/tutorials/external/images/tree-diversity-tile.png
-          date: "2020-07-29"
-          description: This tutorial shows you how to create maps of the tree species diversity across the contiguous USA, using various diversity indices, such as the species richness, Shannon index, Simpson index and the Shannon based effective number of species (ENS). 
-          categories: ['biodiversity', 'geobiogeography', 'ecology', 'beginner'] 
+        - content/tutorials/external/ecodiv.yml
     sort: "date desc"
     type: grid
     categories: true
